@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a rising fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://taco-group.github.io/index.html'>Zhengzhong Tu</a> at TAMU and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. Prior to that, I was an undergraduate research student at <a href='https://www.fudanroilab.com/'>Fudanroilab</a> lead by Professor Wenqiang Zhang.
+I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://taco-group.github.io/index.html'>Zhengzhong Tu</a> at Texas A&M University and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. Prior to that, I was an undergraduate research student at Professor <a href='https://www.fudanroilab.com/'>Wenqiang Zhang</a>'s team.
 
-My research interest lies in developing computational methods, especially AI, to solve complicated domain challenges. Sepecifically, I'm interested in distilling specific challenges into rigorous formulations, combining domain knowledge and designing tailored algorithms. I have worked on problem scenes such as Imaging Neuroscience and Inverse Problem. Typical techniques I implement derives from self-supervised learning, computer vision and numerical optimization.
+My research interest lies in modeling and solving real-world domain challenges with computational methods, especially machine learning. Specifically, I work on distilling specific science problems into rigorous formulations, combining domain knowledge and designing tailored algorithms. To achieve this, my research orintation includes two intertwined branches: understanding frontier challenges in domains such as Imaging Neuroscience and Inverse Problem; studying state-of-the-art methodology in self-supervised learning in computer vision, generative AI, and numerical optimization.
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 Fortunate to start my internship working on developing algorithms for Tiktok advertisement analysis and recommendation at Bytedance.
@@ -38,7 +38,7 @@ My research interest lies in developing computational methods, especially AI, to
 **Xinrui Jiang**, Yohan Jun, Jaejin Cho, Mengze Gao, Xingwang Yong, Berkin Bilgic
 
 [**Presentation**](https://www.youtube.com/watch?v=nFp378a-ygU) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We purposed NLCG-Net, a model-based learning framework informed by medical physics, which incorporates nonlinear conjugate gradient optimization and Neural Network iteratively and achieves zero-shot self-supervised quantitative MRI reconstruction. 
+- We purposed NLCG-Net, a model-based and data-driven framework achieved via self-supervised learning, which incorporates nonlinear conjugate gradient optimization and Neural Network Regularization in a iterative manner and achieves zero-shot quantitative MRI reconstruction. T1, T2 mapping results on phantom and in-vivo data demonstrates NLCG-Net's superiority on estimation quality at high acceleration.
 </div>
 </div>
 
@@ -55,4 +55,4 @@ My research interest lies in developing computational methods, especially AI, to
 - *2022.06 - 2022.8*, Harvard University Summer School, GPA: 4.0/4.0 (graduate credit) 
 
 # 💻 Internships
-- *2024.01 - 2024.04*, [Tiktok (Bytedance)](https://www.bytedance.com/en/), China.
+- *2024.01 - 2024.04*, Machine Learning Data Scientist, [Tiktok (Bytedance)](https://www.bytedance.com/en/), China.
