@@ -19,14 +19,7 @@ redirect_from:
 
 I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://taco-group.github.io/index.html'>Zhengzhong Tu</a> at Texas A&M University and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. Prior to that, I was an undergraduate research student at Professor <a href='https://www.fudanroilab.com/'>Wenqiang Zhang</a>'s team.
 
-My research interest lies in modeling and solving real-world domain challenges with computational methods, especially machine learning. Specifically, I work on distilling specific science problems into rigorous formulations, combining domain knowledge and designing tailored algorithms. To achieve this, my research orintation includes two intertwined branches: understanding frontier challenges in domains such as Imaging Neuroscience and Inverse Problem; studying state-of-the-art methodology in self-supervised learning in computer vision, generative AI, and numerical optimization.
-
-# 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Fortunate to start my internship working on developing algorithms for Tiktok advertisement analysis and recommendation at Bytedance.
-- *2024.01*: &nbsp;🎉🎉 My first paper was accepted by ISMRM 2024 as digital poster.
-- *2023.09*: &nbsp;🎉🎉 Glad to start my exchange study at the University of Toronto majoring in ECE.
-- *2023.06*: &nbsp;🎉🎉 Formally start my summer research internship under supervision of Prof.Berkin Bilgic.
-- *2022.06*: &nbsp;🎉🎉 Start taking CSCI-S89 Introduction to Deep Learning (graduate course) at Harvard Summer School.
+My research interest lies in modeling and solving real-world domain challenges with computational methods, especially machine learning. Specifically, I work on distilling specific science problems into rigorous formulations, combining domain knowledge, and designing tailored algorithms. To achieve this, my research orientation includes two intertwined branches: understanding frontier challenges in domains such as Imaging Neuroscience and Inverse Problems; studying state-of-the-art methodology in self-supervised learning in computer vision, generative AI, and numerical optimization.
 
 # 📝 Publications 
 
