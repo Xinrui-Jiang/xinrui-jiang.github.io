@@ -49,6 +49,3 @@ My research interest lies in modeling real-world biomedical phenomena and solvin
 
 # 💻 Internships
 - *2024.01 - 2024.04*, Machine Learning Engineer, [Tiktok (Bytedance)](https://www.bytedance.com/en/), China.
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=brg6RhZWVptnmikj4Rohy8evp002BE3vNYGM3lKp9_Q&cl=ffffff&w=a"></script>
