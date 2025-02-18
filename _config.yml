@@ -23,7 +23,6 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinrui Jiang (蒋欣瑞)"
   avatar           : "images/personal_img.jpg"
-  bio              : "Undergraduate student majoring in biomedical engineering at Fudan University"
   location         : "Shanghai, China"
   email            : "xr.jiang@mail.utoronto.ca"
   github           : "https://github.com/Xinrui-Jiang"
