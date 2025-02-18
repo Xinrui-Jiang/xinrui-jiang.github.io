@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://taco-group.github.io/index.html'>Zhengzhong Tu</a> at Texas A&M University and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. Prior to that, I was an undergraduate research student at Professor <a href='https://www.fudanroilab.com/'>Wenqiang Zhang</a>'s team.
+I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://taco-group.github.io/index.html'>Zhengzhong Tu</a> at Texas A&M University. In 2023, I was fortunate to work with Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School.Prior to that, I was also an undergraduate research student at Professor <a href='https://www.fudanroilab.com/'>Wenqiang Zhang</a>'s team.
 
 My research interest lies in modeling real-world biomedical phenomena and solving corresponding challenges with computational methods, especially machine learning. Specifically, I distill specific problems into rigorous formulations, embedded with domain knowledge, and design tailored algorithms. To achieve this, my research orientation includes two intertwined branches: understanding frontier challenges in domains such as Imaging Neuroscience and Inverse Problems; studying state-of-the-art methodology in self-supervised learning in computer vision, generative AI, and numerical optimization.
+
+I am currently applying for EECS/BioMed Master Programs starting 25 Fall. 
 
 # 📝 Publications 
 
