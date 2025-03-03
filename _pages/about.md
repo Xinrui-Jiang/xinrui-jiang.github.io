@@ -21,7 +21,7 @@ I am a fourth-year Biomedical Engineering undergraduate at Fudan University. Dur
 
 My research interest lies in modeling real-world biomedical phenomena and solving corresponding challenges with computational methods, especially machine learning. Specifically, I distill specific problems into rigorous formulations, embedded with domain knowledge, and design tailored algorithms. To achieve this, my research orientation includes two intertwined branches: understanding frontier challenges in domains such as Imaging Neuroscience and Inverse Problems; studying state-of-the-art methodology in self-supervised learning, generative AI, and numerical optimization.
 
-I am actively applying for EECS Master Programs starting 25 Fall. 
+I expect to start my master's at Stanford Electrical Engineering starting 25 fall.
 
 # 📝 Publications 
 
