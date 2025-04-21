@@ -27,4 +27,3 @@ Hi there, This is Xinrui Jiang, a fourth-year Biomedical Engineering undergradua
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, Fudan University, GPA: 3.81/4.00 (ranking 2/272 among college)
 - *2023.09 - 2023.12*, University of Toronto, GPA: 3.9/4.0
-- *2022.06 - 2022.8*, Harvard University Summer School, GPA: 4.0/4.0 (graduate credit) 
