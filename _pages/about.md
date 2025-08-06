@@ -19,11 +19,9 @@ redirect_from:
 
 Hi there, I'm Xinrui Jiang, an incoming master's student in EE at Stanford University. Prior to that, I received my B.Eng degree from Fudan University. During my undergraduate study, I was fortunate to be advised by Professor <a href='https://taco-group.github.io/index.html'>Zhengzhong Tu</a> at Texas A&M University and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School.
 
-My research interest lies in modeling real-world biomedical phenomena and solving corresponding challenges with computational methods, especially machine learning. Specifically, I distill specific problems into rigorous formulations, embedded with domain knowledge, and design tailored algorithms. To achieve this, my research orientation includes two intertwined branches: understanding frontier challenges in domains such as Imaging Neuroscience and Inverse Problems; studying state-of-the-art methodology in self-supervised learning, generative AI, and numerical optimization.
-
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/4kagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/4kagent.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [4KAgent: Agentic Any Image to 4K Super-Resolution](https://arxiv.org/abs/2507.07105)
