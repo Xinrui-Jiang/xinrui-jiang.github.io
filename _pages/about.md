@@ -21,7 +21,7 @@ Hi there, I'm Xinrui Jiang, a master's student in EE at Stanford University. Pri
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/4kagent.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/4kagent.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [4KAgent: Agentic Any Image to 4K Super-Resolution](https://arxiv.org/abs/2507.07105)
