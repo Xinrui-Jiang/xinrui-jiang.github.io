@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I'm Xinrui Jiang, a master's student in EE at Stanford University. Prior to that, I received my B.Eng degree from Fudan University. During my undergraduate study, I was fortunate to be advised by Professor <a href='https://taco-group.github.io/index.html'>Zhengzhong Tu</a> at Texas A&M University and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School.
+Hi there, I'm Xinrui Jiang, a master's student in EE at Stanford University. Prior to that, I received my B.Eng from Fudan University. During my undergraduate study, I was fortunate to be advised by Professor <a href='https://taco-group.github.io/index.html'>Zhengzhong Tu</a> at Texas A&M University and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. 
+
+My work focus on generative AI, agentic AI, and low-level vision. I enjoy the process of formalizing complex real-world challenges into optimization problems, and deriving actionable solutions with data-driven computational methods.
 
 # 📝 Publications 
 
