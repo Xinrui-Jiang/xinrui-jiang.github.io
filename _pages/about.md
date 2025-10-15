@@ -60,14 +60,14 @@ In my spare time, I enjoy running (~5km each time), making LEGO figure, and play
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 15px;">
     <div style="flex-basis: 32%; text-align: center;">
-        <img src="/images/dafu_cat_1.jpg" alt="Dafu Cat Photo 1" style="width: 100%; height: auto; border-radius: 5px;">
+        <img src="images/dafu_cat_1.jpg" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
     
     <div style="flex-basis: 32%; text-align: center;">
-        <img src="/images/dafu_cat_2.jpg" alt="Dafu Cat Photo 2" style="width: 100%; height: auto; border-radius: 5px;">
+        <img src="images/dafu_cat_2.jpg" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
 
     <div style="flex-basis: 32%; text-align: center;">
-        <img src="/images/dafu_cat_3.jpg" alt="Dafu Cat Photo 3" style="width: 100%; height: auto; border-radius: 5px;">
+        <img src="images/dafu_cat_3.jpg" style="width: 100%; height: auto; border-radius: 5px;">
     </div>
 </div>
