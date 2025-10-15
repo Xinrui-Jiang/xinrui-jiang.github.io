@@ -50,3 +50,23 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 # 💻 Internships
 - *2025.03 - 2025.08*, Machine Learning Engineer at [Microsoft](https://www.microsoft.com/en-us/aprd/aboutus/team-stca).
 - *2025.03 - 2025.08*, Machine Learning at [TikTok/Bytedance](https://www.bytedance.com/en/).
+
+# 🎖 Selected Awards
+- *2023.09* Suiwei Scholarship (top 1%)
+- *2022.09* National Scholarship (top 1%)
+
+# 🌟 Fun
+In my spare time, I enjoy running (~5km every time), making LEGO figure, and play with my cat Dafu (he is an American Shorthair) 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 15px;">
+    <div style="flex-basis: 32%; text-align: center;">
+        <img src="/images/fun_1.jpg" style="width: 100%; height: auto; border-radius: 5px;">
+    </div>
+    
+    <div style="flex-basis: 32%; text-align: center;">
+        <img src="/images/fun_2.jpg" style="width: 100%; height: auto; border-radius: 5px;">
+    </div>
+
+    <div style="flex-basis: 32%; text-align: center;">
+        <img src="/images/my_dafu.jpg" style="width: 100%; height: auto; border-radius: 5px;">
+    </div>
+</div>
