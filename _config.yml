@@ -25,7 +25,7 @@ author:
   avatar           : "images/personal_img.jpg"
   location         : "Stanford, CA"
   email            : "xinruijiang@stanford.edu"
-
+  linkedin         : "https://www.linkedin.com/in/xinruijiang21/"
 # Reading Files
 include:
   - .htaccess
