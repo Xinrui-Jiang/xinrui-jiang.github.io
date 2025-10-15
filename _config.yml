@@ -26,6 +26,9 @@ author:
   location         : "Stanford, CA"
   email            : "xinruijiang@stanford.edu"
   linkedin         : "xinruijiang21"
+  googlescholar    : "https://scholar.google.com/citations?user=YRLtdEMAAAAJ"
+  github           : "Xinrui-Jiang"
+  
 # Reading Files
 include:
   - .htaccess
