@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : 'Xinrui "Ryan" Jiang'
+  name             : 'Ryan Jiang'
   avatar           : "images/personal_img.jpg"
   location         : "Stanford, CA"
   email            : "xinruijiang@stanford.edu"
