@@ -59,15 +59,15 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 In my spare time, I enjoy running (~5km each time), making LEGO figure, and play with my cat Dafu (he is an American Shorthair)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 15px;">
-    <div style="flex-basis: 32%; text-align: center;">
-        <img src="images/dafu_cat_1.jpg" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    
-    <div style="flex-basis: 32%; text-align: center;">
-        <img src="images/dafu_cat_2.jpg" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
+<div style="flex-basis: 32%; text-align: center;">
+<img src="/images/fun_1.jpg" style="width: 100%; height: auto; border-radius: 5px;">
+</div>
+    
+<div style="flex-basis: 32%; text-align: center;">
+<img src="/images/fun_2.jpg" style="width: 100%; height: auto; border-radius: 5px;">
+</div>
 
-    <div style="flex-basis: 32%; text-align: center;">
-        <img src="images/dafu_cat_3.jpg" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
+<div style="flex-basis: 32%; text-align: center;">
+<img src="/images/my_dafu_3.jpg" style="width: 100%; height: auto; border-radius: 5px;">
+</div>
 </div>
