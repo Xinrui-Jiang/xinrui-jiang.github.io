@@ -56,7 +56,7 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 - *2022.09* National Scholarship (top 1%)
 
 # 🌟 Fun
-In my spare time, I enjoy running (~5km each time), making LEGO figure, and play with my cat Dafu (he is an American Shorthair)
+In my spare time, I enjoy running (~5km each time), making LEGO figure, and playing with my cat Dafu (he is an American Shorthair)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 15px;">
 
