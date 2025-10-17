@@ -49,7 +49,7 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 
 # 💻 Internships
 - *2025.03 - 2025.08*, Machine Learning Engineer at [Microsoft](https://www.microsoft.com/en-us/aprd/aboutus/team-stca).
-- *2025.03 - 2025.08*, Machine Learning at [TikTok/Bytedance](https://www.bytedance.com/en/).
+- *2024.01 - 2024.04*, Machine Learning at [TikTok/Bytedance](https://www.bytedance.com/en/).
 
 # 🎖 Selected Awards
 - *2023.09* Suiwei Scholarship (top 1%)
