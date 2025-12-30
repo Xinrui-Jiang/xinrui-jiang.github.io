@@ -26,7 +26,7 @@ My work focuses on generative AI, agentic AI, and low-level vision. I enjoy the 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/4kagent.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-4KAgent: Agentic Any Image to 4K Super-Resolution
+**4KAgent: Agentic Any Image to 4K Super-Resolution**
 
 Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu
 
@@ -39,7 +39,7 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='images/nlcgnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitative MRI Reconstruction
+**NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitative MRI Reconstruction**
 
 **Xinrui Jiang**, Yohan Jun, Jaejin Cho, Mengze Gao, Xingwang Yong, Berkin Bilgic
 
@@ -53,7 +53,7 @@ NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitati
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sumforu.png' alt="SumForU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SUMFORU: An LLM-Based Review Summarization Framework for Personalized Purchase Decision Support
+**SUMFORU: An LLM-Based Review Summarization Framework for Personalized Purchase Decision Support**
 
 [**Report**](https://arxiv.org/abs/2512.11755) · [**Code**](https://github.com/Harry20030331/SumForU)
 
