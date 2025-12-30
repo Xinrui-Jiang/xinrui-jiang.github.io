@@ -13,4 +13,7 @@ main:
     url: "/#-internships"
     
   - title: "Selected Awards"
-    url: "/#-selecteed-awards"
+    url: "/#-selected-awards"
+
+  - title: "Fun"
+    url: "/#-fun"
