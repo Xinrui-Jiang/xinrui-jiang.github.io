@@ -3,11 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Selected Awards"
-    url: "/#-selecteed-awards"
+  - title: "Publications"
+    url: "/#-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Projects"
+    url: "/#-projects"
 
   - title: "Internships"
     url: "/#-internships"
+    
+  - title: "Selected Awards"
+    url: "/#-selecteed-awards"
