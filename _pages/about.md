@@ -26,11 +26,12 @@ My work focuses on generative AI, agentic AI, and low-level vision. I enjoy the 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/4kagent.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[4KAgent: Agentic Any Image to 4K Super-Resolution](https://arxiv.org/abs/2507.07105)
+4KAgent: Agentic Any Image to 4K Super-Resolution
 
 Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu
 
-[**Project Page**](https://4kagent.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>· [**Code**](https://github.com/taco-group/4KAgent)
+[**Paper**](https://arxiv.org/abs/2507.07105) · [**Code**](https://github.com/taco-group/4KAgent) · [**Project Page**](https://4kagent.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - We present 4KAgent, an agentic image super-resolution generalist designed to universally upscale any image to 4K resolution, regardless of input type, degradation level, or domain.
 </div>
 </div>
@@ -38,12 +39,13 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='images/nlcgnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitative MRI Reconstruction](https://arxiv.org/pdf/2401.12004)
+NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitative MRI Reconstruction
 
 **Xinrui Jiang**, Yohan Jun, Jaejin Cho, Mengze Gao, Xingwang Yong, Berkin Bilgic
 
-[**Presentation**](https://www.youtube.com/watch?v=nFp378a-ygU) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  · [**Code**](https://github.com/Xinrui-Jiang/NLCG-Net)
-- We purposed NLCG-Net, a model-based and data-driven framework achieved via self-supervised learning, which incorporates nonlinear conjugate gradient optimization and Neural Network Regularization in a iterative manner and achieves zero-shot quantitative MRI reconstruction. T1, T2 mapping results on phantom and in-vivo data demonstrates NLCG-Net's superiority on estimation quality at high acceleration.
+[**Paper**](https://arxiv.org/abs/2401.12004) · [**Code**](https://github.com/Xinrui-Jiang/NLCG-Net) · [**Presentation**](https://www.youtube.com/watch?v=nFp378a-ygU) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- We purposed NLCG-Net, a model-based and data-driven framework achieved via self-supervised learning, which incorporates nonlinear conjugate gradient optimization and Neural Network Regularization in a iterative manner and achieves zero-shot quantitative MRI reconstruction.
 </div>
 </div>
 
@@ -51,11 +53,9 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sumforu.png' alt="SumForU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SUMFORU: An LLM-Based Review Summarization Framework for Personalized Purchase Decision Support](https://arxiv.org/abs/2512.11755)
+SUMFORU: An LLM-Based Review Summarization Framework for Personalized Purchase Decision Support
 
-**Course project**, Stanford University
-
-[**Code**](https://github.com/Harry20030331/SumForU)
+[**Report**](https://arxiv.org/abs/2512.11755) · [**Code**](https://github.com/Harry20030331/SumForU)
 
 - We develop SumForU, a personalized review summarization system that steers LLM outputs to match explicit user personas using persona-aware Supervised Fine-Tuning (SFT) and Reinforcement Learning with AI Feedback (RLAIF).
 </div>
