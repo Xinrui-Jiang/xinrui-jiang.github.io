@@ -57,7 +57,7 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 
 [**Report**](https://arxiv.org/abs/2512.11755) · [**Code**](https://github.com/Harry20030331/SumForU)
 
-- We develop SumForU, a personalized review summarization system that steers LLM outputs to match explicit user personas using persona-aware Supervised Fine-Tuning (SFT) and Reinforcement Learning with AI Feedback (RLAIF).
+- We developed SumForU, a persona-steerable review summarization system that fine-tunes LLMs on Amazon 2023 reviews and optimizes for user-aligned summaries via preference-based reinforcement learning.
 </div>
 </div>
 
