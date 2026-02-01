@@ -57,7 +57,7 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 
 [**Report**](https://arxiv.org/abs/2512.11755) · [**Code**](https://github.com/Harry20030331/SumForU)
 
-- We developed SumForU, a persona-steerable review summarization system that fine-tunes LLMs on Amazon 2023 reviews and optimizes for user-aligned summaries via preference-based reinforcement learning.
+- We developed SumForU, a persona-steerable review summarization system built on Thinking Machine's Tinker platform. This system fine-tunes LLMs on Amazon 2023 reviews and optimizes for user-aligned summaries via preference-based reinforcement learning.
 </div>
 </div>
 
