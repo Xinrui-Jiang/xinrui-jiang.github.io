@@ -87,6 +87,21 @@
 
 }
 
+.fun-gallery {
+    display: grid;
+    grid-template-columns: 1702fr 1276fr;
+    align-items: start;
+    gap: clamp(.5rem, 2vw, 1rem);
+    margin-top: 15px;
+
+    img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border-radius: 5px;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

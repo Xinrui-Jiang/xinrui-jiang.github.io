@@ -74,12 +74,10 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 # 🌟 Fun
 In my spare time, I enjoy running (about 3.2 miles each time), building LEGO sets, and hanging out with my American Shorthair cat, Dafu.
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 15px;">
+<div class="fun-gallery">
 
-  <img src="{{ site.baseurl }}/images/fun_1.jpg" alt="Fun photo 1" 
-       style="width: 48%; height: auto; border-radius: 5px;">
+  <img src="{{ site.baseurl }}/images/fun_1.jpg" alt="My LEGO collection">
 
-  <img src="{{ site.baseurl }}/images/my_dafu.jpg" alt="My cat Dafu" 
-       style="max-width: 48%; height: 100%; object-fit: contain; border-radius: 5px;">
+  <img src="{{ site.baseurl }}/images/my_dafu.jpg" alt="My cat Dafu">
 
 </div>
