@@ -63,9 +63,12 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 
 
 # 💻 Internships
-- *2026.06 - 2026.09*, Machine Learning Engineer at [DoorDash](https://merchants.doordash.com/en-us) — agentic editing orchestrator for multi-defect video repair.
-- *2025.03 - 2025.08*, Machine Learning Engineer at [Microsoft](https://www.microsoft.com/en-us/aprd/aboutus/team-stca) — failure-driven, self-refining LLM-as-a-Judge for large-scale generative media evaluation.
-- *2024.01 - 2024.04*, Machine Learning Engineer at [TikTok/Bytedance](https://www.bytedance.com/en-us/) — multimodal content understanding and unsupervised mining for short-form video.
+- *2026.06 - 2026.09*, Machine Learning Engineer at [DoorDash](https://merchants.doordash.com/en-us).
+  <span class="internship-summary">Agentic editing orchestrator for multi-defect video repair</span>
+- *2025.03 - 2025.08*, Machine Learning Engineer at [Microsoft](https://www.microsoft.com/en-us/aprd/aboutus/team-stca).
+  <span class="internship-summary">Failure-driven, self-refining LLM-as-a-Judge for large-scale generative media evaluation</span>
+- *2024.01 - 2024.04*, Machine Learning Engineer at [TikTok/Bytedance](https://www.bytedance.com/en-us/).
+  <span class="internship-summary">Multimodal content understanding and unsupervised mining for short-form video</span>
 
 # 🎖 Selected Awards
 - *2023.09* Suiwei Scholarship (top 1%)
