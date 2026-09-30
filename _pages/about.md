@@ -19,9 +19,22 @@ redirect_from:
 
 Hi there, I'm Xinrui (Ryan) Jiang, a master's student in EE at Stanford University. Prior to that, I received my B.Eng from Fudan University. During my undergraduate study, I was fortunate to be advised by Professor <a href='https://taco-group.github.io/index.html'>Zhengzhong Tu</a> at Texas A&M University and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. 
 
-My current interests include AI agents and visual creation, with recent work on tool-using agents for video editing and generative model evaluation. My earlier research focused on low-level vision, including image super-resolution and quantitative MRI reconstruction. I enjoy starting from real-world needs and observations, framing concrete technical problems, and developing practical methods and systems to address them.
+My current interests include AI agents and generative modeling, with recent work on tool-using agents for video editing and generative model evaluation. My earlier research focused on low-level vision, including image super-resolution and quantitative MRI reconstruction. I enjoy starting from real-world needs and observations, framing concrete technical problems, and developing practical methods and systems to address them.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='sfx_completion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Game Sound-Effect Completion with Event-Level Transformation Hints**
+
+**Xinrui Jiang**, Heng Yu
+
+[**Paper**](jiang2026_sfx_completion.pdf) · Code (coming soon) · *Submitted to ICASSP 2027*
+
+- We complete a new game skin's ability sound effects from the base-skin audio, already-finished target assets, and a design description. A pipeline aligns 5.6K paired ability sequences from League of Legends, and a fine-tuned Stable Audio 3 model uses a signed soft mask to let designers set how much each event should change.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/4kagent.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -30,7 +43,7 @@ My current interests include AI agents and visual creation, with recent work on 
 
 Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu
 
-[**Paper**](https://arxiv.org/abs/2507.07105) · [**Code**](https://github.com/taco-group/4KAgent) · [**Project Page**](https://4kagent.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2507.07105) · [**Code**](https://github.com/taco-group/4KAgent) · [**Project Page**](https://4kagent.github.io/)
 
 - We present 4KAgent, an agentic image super-resolution generalist designed to universally upscale any image to 4K resolution, regardless of input type, degradation level, or domain.
 </div>
@@ -43,7 +56,7 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 
 **Xinrui Jiang**, Yohan Jun, Jaejin Cho, Mengze Gao, Xingwang Yong, Berkin Bilgic
 
-[**Paper**](https://arxiv.org/abs/2401.12004) · [**Code**](https://github.com/Xinrui-Jiang/NLCG-Net) · [**Presentation**](https://www.youtube.com/watch?v=nFp378a-ygU) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2401.12004) · [**Code**](https://github.com/Xinrui-Jiang/NLCG-Net) · [**Presentation**](https://www.youtube.com/watch?v=nFp378a-ygU)
 
 - We purposed NLCG-Net, a model-based and data-driven framework achieved via self-supervised learning, which incorporates nonlinear conjugate gradient optimization and Neural Network Regularization in a iterative manner and achieves zero-shot quantitative MRI reconstruction.
 </div>
