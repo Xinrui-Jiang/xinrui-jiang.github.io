@@ -30,7 +30,7 @@ My current interests include AI agents and generative modeling. My earlier resea
 
 **Xinrui Jiang**, Heng Yu
 
-[**Paper**](https://arxiv.org/abs/2609.39044) · Code (coming soon) · *Submitted to ICASSP 2027*
+[**Paper**](https://arxiv.org/abs/2609.39044) · Code (coming soon)
 
 - We complete a new game skin's ability sound effects from the base-skin audio, already-finished target assets, and a design description. A pipeline aligns 5.6K paired ability sequences from League of Legends, and a fine-tuned Stable Audio 3 model uses a signed soft mask to let designers set how much each event should change.
 </div>
