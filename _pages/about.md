@@ -23,14 +23,14 @@ My current interests include AI agents and generative modeling. My earlier resea
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='sfx_completion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='sfx_completion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Game Sound-Effect Completion with Event-Level Transformation Hints**
 
 **Xinrui Jiang**, Heng Yu
 
-[**Paper**](jiang2026_sfx_completion.pdf) · Code (coming soon) · *Submitted to ICASSP 2027*
+[**Paper**](https://arxiv.org/abs/2609.39044) · Code (coming soon) · *Submitted to ICASSP 2027*
 
 - We complete a new game skin's ability sound effects from the base-skin audio, already-finished target assets, and a design description. A pipeline aligns 5.6K paired ability sequences from League of Legends, and a fine-tuned Stable Audio 3 model uses a signed soft mask to let designers set how much each event should change.
 </div>
