@@ -10,6 +10,37 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<script>
+  /* Swap between the homepage content and the Projects section in place,
+     so the Projects nav link never leaves this page. */
+  (function () {
+    var root = document.documentElement;
+    function target(hash) {
+      try { return document.getElementById(decodeURIComponent(hash.slice(1))); } catch (e) { return null; }
+    }
+    function inProjects(hash) {
+      if (!hash || hash.length < 2) return false;
+      var head = document.getElementById('projects'), el = target(hash);
+      if (!head || !el) return hash === '#projects';
+      return el === head || !!(head.compareDocumentPosition(el) & 4);
+    }
+    function show(hash) {
+      root.classList.toggle('show-projects', inProjects(hash));
+    }
+    show(location.hash);
+    window.addEventListener('hashchange', function () {
+      show(location.hash);
+      var el = target(location.hash);
+      if (el) el.scrollIntoView();
+    });
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest ? e.target.closest('a[href*="#"]') : null;
+      if (!a || a.hostname !== location.hostname || a.pathname !== location.pathname) return;
+      show(a.hash);
+    }, true);
+  })();
+</script>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
 

@@ -103,6 +103,26 @@
     }
 }
 
+// The Projects section sits at the end of the homepage and is hidden until the
+// Projects nav link is chosen; then it replaces the rest of the page content.
+html.js:not(.show-projects) .page__content > #projects,
+html.js:not(.show-projects) .page__content > #projects ~ * {
+    display: none;
+}
+
+html.show-projects .page__content > * {
+    display: none;
+}
+
+html.show-projects .page__content > #projects,
+html.show-projects .page__content > #projects ~ * {
+    display: block;
+}
+
+html.show-projects .page__content > #projects ~ .paper-box {
+    display: flex;
+}
+
 .internship-summary {
     display: block;
     margin: .25rem 0 .65rem 1rem;
