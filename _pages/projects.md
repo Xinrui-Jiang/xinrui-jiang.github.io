@@ -5,11 +5,11 @@ excerpt: "Course projects and side projects"
 author_profile: true
 ---
 
-<span class='anchor' id='more-projects'></span>
+<span class='anchor' id='projects'></span>
 
-# 📌 More Projects
+# 📌 Projects
 
-Course projects and tools I built along the way. [← Back to homepage]({{ site.baseurl }}/#-projects)
+Course projects and tools I built along the way. [← Back to homepage]({{ site.baseurl }}/)
 
 <span class='anchor' id='harbor-trajectory-viewer'></span>
 
@@ -33,6 +33,19 @@ Course projects and tools I built along the way. [← Back to homepage]({{ site.
 
 [**Code**](https://github.com/Xinrui-Jiang/cs448z-physics-based-animation-sound) · [**Kitchen Demo**](https://github.com/Xinrui-Jiang/cs448z-physics-based-animation-sound/tree/main/hw2-kitchen-modal-sound) · [**Cat Chaos Demo**](https://github.com/Xinrui-Jiang/cs448z-physics-based-animation-sound/tree/main/hw3-cat-chaos)
 
-- Three audiovisual simulation projects for Stanford CS 448Z (Spring 2026). Blender rigid-body scenes export collision and animation events that drive physically based sound synthesis, covering modal impact sound, acceleration noise, bubble acoustics, glass fracture, scraping, and fire.
+- Three audiovisual simulation projects for Stanford CS 448Z. Blender rigid-body scenes export collision and animation events that drive physically based sound synthesis, covering modal impact sound, acceleration noise, bubble acoustics, glass fracture, scraping, and fire.
+</div>
+</div>
+
+<span class='anchor' id='sumforu'></span>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='{{ site.baseurl }}/images/sumforu.png' alt="SumForU" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SUMFORU: An LLM-Based Review Summarization Framework for Personalized Purchase Decision Support**
+
+[**Report**](https://arxiv.org/abs/2512.11755) · [**Code**](https://github.com/Harry20030331/SumForU)
+
+- We developed SumForU, a persona-steerable review summarization system built on Thinking Machine's Tinker platform. This system fine-tunes LLMs on Amazon 2023 reviews and optimizes for user-aligned summaries via preference-based reinforcement learning.
 </div>
 </div>

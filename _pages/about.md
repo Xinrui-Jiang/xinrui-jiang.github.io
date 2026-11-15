@@ -62,30 +62,6 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 </div>
 </div>
 
-# 📌 Projects
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/sumforu.png' alt="SumForU" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**SUMFORU: An LLM-Based Review Summarization Framework for Personalized Purchase Decision Support**
-
-[**Report**](https://arxiv.org/abs/2512.11755) · [**Code**](https://github.com/Harry20030331/SumForU)
-
-- We developed SumForU, a persona-steerable review summarization system built on Thinking Machine's Tinker platform. This system fine-tunes LLMs on Amazon 2023 reviews and optimizes for user-aligned summaries via preference-based reinforcement learning.
-</div>
-</div>
-
-<div class="more-projects" markdown="1">
-
-**More projects** · [view all →]({{ site.baseurl }}/projects/)
-
-- [Harbor Trajectory Viewer]({{ site.baseurl }}/projects/#harbor-trajectory-viewer)
-  <span class="project-summary">Web app for browsing, auditing and annotating AI agent trajectories</span>
-- [Physics-Based Animation and Sound]({{ site.baseurl }}/projects/#physics-based-animation-and-sound)
-  <span class="project-summary">Blender scenes with physically based sound synthesis · Stanford CS 448Z</span>
-
-</div>
-
-
 # 💻 Internships
 - *2026.06 - 2026.09*, Machine Learning Engineer at [DoorDash](https://merchants.doordash.com/en-us).
   <span class="internship-summary">Agentic editing orchestrator for multi-defect video repair</span>

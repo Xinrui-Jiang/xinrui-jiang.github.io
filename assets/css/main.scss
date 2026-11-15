@@ -92,7 +92,7 @@
     grid-template-columns: 1702fr 1276fr;
     align-items: start;
     gap: clamp(.5rem, 2vw, 1rem);
-    max-width: 480px;
+    max-width: 720px;
     margin-top: 15px;
 
     img {
@@ -103,16 +103,7 @@
     }
 }
 
-.more-projects {
-    padding-top: 1.5em;
-
-    ul {
-        margin-top: .5em;
-    }
-}
-
-.internship-summary,
-.project-summary {
+.internship-summary {
     display: block;
     margin: .25rem 0 .65rem 1rem;
     color: $gray;
