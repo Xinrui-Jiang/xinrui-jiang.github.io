@@ -30,7 +30,7 @@ My current interests include AI agents and generative modeling. My earlier resea
 
 **Xinrui Jiang**, Heng Yu
 
-[**Paper**](https://arxiv.org/abs/2609.39044) · Code (coming soon)
+[**Paper**](https://arxiv.org/abs/2609.39044) · [**Code**](https://github.com/Xinrui-Jiang/sfx-completion-hints)
 
 - We complete a new game skin's ability sound effects from the base-skin audio, already-finished target assets, and a design description. A pipeline aligns 5.6K paired ability sequences from League of Legends, and a fine-tuned Stable Audio 3 model uses a signed soft mask to let designers set how much each event should change.
 </div>
@@ -72,6 +72,17 @@ Yushen Zuo, Qi Zheng, Mingyang Wu, **Xinrui Jiang**, Renjie Li, Jian Wang, Yide 
 
 - We developed SumForU, a persona-steerable review summarization system built on Thinking Machine's Tinker platform. This system fine-tunes LLMs on Amazon 2023 reviews and optimizes for user-aligned summaries via preference-based reinforcement learning.
 </div>
+</div>
+
+<div class="more-projects" markdown="1">
+
+**More projects** · [view all →]({{ site.baseurl }}/projects/)
+
+- [Harbor Trajectory Viewer]({{ site.baseurl }}/projects/#harbor-trajectory-viewer)
+  <span class="project-summary">Web app for browsing, auditing and annotating AI agent trajectories</span>
+- [Physics-Based Animation and Sound]({{ site.baseurl }}/projects/#physics-based-animation-and-sound)
+  <span class="project-summary">Blender scenes with physically based sound synthesis · Stanford CS 448Z</span>
+
 </div>
 
 
